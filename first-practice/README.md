@@ -7,3 +7,4 @@ This is my first practice using and utilizing git, github, and VS Code
 - Git Push
 - Git Commit
 - Git Pull
+- Git Status
